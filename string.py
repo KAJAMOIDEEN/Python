@@ -1,6 +1,6 @@
 a = "Hello World my world futufre world" #group of characters is string
 num = 3
-b = f"This is {num}Python"
+b = f"This is Python"
 
 print (b)
 
